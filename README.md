@@ -19,7 +19,7 @@ Setup no Eclipse
 MySQL 
 ```
 port: 3306
-database: dev3
+database: devsoft
 Username: root
 Password: root
 ```
@@ -27,5 +27,5 @@ Password: root
 MySQL table
 ```
 mysql -u root -p
-create database dev3;
+create database devsoft;
 ```
